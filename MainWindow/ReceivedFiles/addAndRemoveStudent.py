@@ -10,7 +10,7 @@
 import sqlite3
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QTableWidgetItem, QMessageBox
-from database import add_delete_students  # Take note of this! Place the add_delete_students on the same directory
+import add_delete_students  # Take note of this! Place the add_delete_students.py on the same directory
 
 
 # Warnings GUI
